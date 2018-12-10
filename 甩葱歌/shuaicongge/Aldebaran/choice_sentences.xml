@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<sentences>
+  <translation language="Chinese">
+    <speechReco>
+      <negative text="不是/不是，NAO/不对/我不这么认为" />
+      <positive text="是/是，NAO/OK/哦/完全正确" />
+      <help text="帮忙/帮助我/帮助/我不知道/你能帮帮我吗？/我做什么？/我能做什么呢？/我得怎么做呢？" />
+      <exit text="结束/放弃/终止/停止/取消/关闭" />
+      <repeat text="重复/请再重复一次？/什么？/怎么？" />
+    </speechReco>
+    <tts>
+      <confirmation text="我认为是%s。正确吗？" />
+      <enumMarks text="、/或" />
+      <helpEnumChoices text="不需要确切回答。/你可以回答%s。/比如你可以回答%s。/%s？" />
+      <helpEnumDefault text=" 你可以要求我：%s。" />
+      <helpTactile text="你也可以借助我的触觉传感器选择一个回答。/\Pau=600\ 按压我帽子的前面或后面浏览可选的回答。然后按压中间的圆圈确定你的选择。" />
+      <notUnderstood text="我不明白。" />
+      <noQuestion text="没有预定义问题，所以我无法重复。" />
+      <notUnderstoodAnims text="这里的噪音太大啦！/请尽量和我说得再清楚一点儿。/我听不太清楚。" />
+    </tts>
+  </translation>
+
+  <translation language="English">
+    <speechReco>
+      <negative text="no/no nao/disagree/I disagree" />
+      <positive text="yes/yes nao/agree/I agree/of course" />
+      <help text="help/help me/i don't know" />
+      <exit text="exit/stop/quit" />
+      <repeat text="repeat/pardon/what/excuse me" />
+    </speechReco>
+    <tts>
+      <confirmation text="I understood %s. Is that correct?" />
+      <enumMarks text=", / or " />
+      <helpEnumChoices text="No answer is really expected. /Your answer can be %s. /Your answer can be for example %s. /%s?" />
+      <helpEnumDefault text=" you can ask me: %s. " />
+      <helpTactile text="You can also use my tactile sensor to choose the answer./\Pau=600\ Press the front or the rear of my skull cap to go through all of the available answers. Press then the circle in the middle to validate your choice." />
+      <notUnderstood text="I did not understand. " />
+      <noQuestion text="No question has been defined, so I cannot repeat it. " />
+      <notUnderstoodAnims text="There is too much noise here! /Try to talk to me more distinctly. /I can't hear you very well. " />
+    </tts>
+  </translation>
+
+  <translation language="French">
+    <speechReco>
+      <negative text="non/non nao/non non/pas vraiment" />
+      <positive text="oui/oui nao/si/absolument/ok" />
+      <help text="l'aide/aide/aide moi/dis moi l'aide/je sais pas/je ne sais pas" />
+      <exit text="sortir/quitter/passer/arrête/annuler/tais toi/stoppe" />
+      <repeat text="répéter/répète/pardon/quoi/comment" />
+    </speechReco>
+    <tts>
+      <confirmation text="J'ai compris %s. Est-ce correct?" />
+      <enumMarks text=", / ou " />
+      <helpEnumChoices text="Aucune réponse précise n'est attendue. /Tu peux répondre %s. /Tu peux répondre par exemple %s. /%s ?" />
+      <helpEnumDefault text=" tu peux me demander : %s. " />
+      <helpTactile text="Tu peux aussi choisir une réponse à l'aide de mon capteur tactile./\Pau=600\ Appuie sur l'avant ou l'arrière de ma calotte pour naviguer parmi les réponses possibles. Appuie ensuite sur le rond du milieu pour valider ton choix." />
+      <notUnderstood text="Je n'ai pas compris. " />
+      <noQuestion text="Il n'y a pas de question prédéfinie, je ne peux donc pas la répéter. " />
+      <notUnderstoodAnims text="Il y a trop de bruit ici! /Essaye de me parler plus distinctement. /Je ne t'entends pas bien. " />
+    </tts>
+  </translation>
+
+  <translation language="German">
+    <speechReco>
+      <negative text="Nein/Nein NAO/Nicht wirklich/Das glaube ich nicht" />
+      <positive text="Ja/Ja NAO/OK/Doch/Ja klar/Auf jeden Fall" />
+      <help text="Hilfe/die Hilfe/Hilf mir bitte/Ich weiß nicht/Kannst Du mir helfen?/Was mache ich jetzt?/Was kann ich machen?/Wie kann ich das machen?" />
+      <exit text="beenden/verlassen/abbrechen/schließen" />
+      <repeat text="wiederholen/wiederhole/Entschuldigung?/Was?/Wie bitte?" />
+    </speechReco>
+    <tts>
+      <confirmation text="Ich habe %s verstanden. Ist das richtig?" />
+      <enumMarks text=", / oder " />
+      <helpEnumChoices text="Es wird keine genaue Antwort erwartet. /Du kannst mit %s antworten. /Du kannst zum Beispiel mit %s antworten. /%s ?" />
+      <helpEnumDefault text=" Desweiteren kannst du %s sagen. " />
+      <helpTactile text="Du kannst auch mithilfe meines Kopfsensors eine Antwort auswählen./\Pau=600\ Drück vorne oder hinten auf meinen Kopfsensor, um durch die möglichen Antworten zu navigieren. Drück auf meinen mittleren Kopfsensor, um deine gewünschte Antwort zu bestätigen." />
+      <notUnderstood text="Ich habe nicht verstanden. " />
+      <noQuestion text="Es gibt keine vordefinierte Frage, also kann ich sie nicht wiederholen. " />
+      <notUnderstoodAnims text="Es ist zu laut hier! /Versuch bitte deutlicher zu sprechen. /Ich verstehe dich nicht gut. " />
+    </tts>
+  </translation>
+
+  <translation language="Italian">
+    <speechReco>e
+      <negative text="no/no NAO/non proprio/non credo" />
+      <positive text="sì/sì NAO/OK/certamente" />
+      <help text="l'aiuto/aiutami/aiuto/non so/puoi aiutarmi?/cosa faccio?/cosa posso fare?/come posso fare?" />
+      <exit text="uscire/passare/fermati/annullare/chiudere" />
+      <repeat text="ripetere/ripeti/come?/cosa?/come?" />
+    </speechReco>
+    <tts>
+      <confirmation text="Ho capito %s. È corretto?" />
+      <enumMarks text=", / o " />
+      <helpEnumChoices text="Non è attesa nessuna risposta precisa. /Puoi rispondere %s. /Puoi rispondere per esempio %s. /%s ?" />
+      <helpEnumDefault text=" Puoi chiedermi: %s. " />
+      <helpTactile text="Puoi scegliere una risposta anche attraverso il mio sensore tattile./\Pau=600\ Premi sulla parte anteriore o posteriore della mia calotta per navigare tra le risposte possibili. Premi poi il tondo centrale per confermare la tua scelta." />
+      <notUnderstood text="Non ho capito. " />
+      <noQuestion text="Non c’è una domanda predefinita, quindi non posso ripeterla. " />
+      <notUnderstoodAnims text="C’è troppo rumore qui! /Prova ad articolare meglio le parole. /Non ti sento bene. " />
+    </tts>
+  </translation>
+
+  <translation language="Japanese">
+    <speechReco>
+      <negative text="いいえ/いいえNAO/そうじゃない/そう思わない" />
+      <positive text="はい/はいNAO/OK/そう/その通り" />
+      <help text="手伝い/手伝って/分からない/手伝ってくれる？/私は何をするの？/私に何ができる？/どうやってできる？" />
+      <exit text="出る/離れる/渡す/止めなさい/キャンセル/閉じる" />
+      <repeat text="繰り返す/繰り返しなさい/何ですか？/何？" />
+    </speechReco>
+    <tts>
+      <confirmation text="%sと理解したよ。これで合ってる？" />
+      <enumMarks text="、/、" />
+      <helpEnumChoices text="はっきりした答えがなかったよ。/%sという風に答えてね。/例えば、%sという風に答えてね。/%s？" />
+      <helpEnumDefault text="%sの中からボクに頼んでね。" />
+      <helpTactile text="タッチセンサーを使って答えを選んでもいいよ。/\Pau=600\ ボクの帽子の前か後ろを押して、答えを選ぶこともできるよ。その後、真ん中の丸い所を押して答えを決定してね。" />
+      <notUnderstood text="分からなかったよ。" />
+      <noQuestion text="質問がないから、くり返せないよ。" />
+      <notUnderstoodAnims text="ここはうるさすぎるよ！/もっとはっきり話してみて。/よく聞こえないよ。" />
+    </tts>
+  </translation>
+
+  <translation language="Korean">
+    <speechReco>
+      <negative text="아니오/아니오 NAO/별로 그렇게 생각지 않습니다/그렇게 생각지 않습니다" />
+      <positive text="예/예 NAO/오케이/만약/응/전적으로 동감" />
+      <help text="도움/도와주세요/모르겠습니다/저좀 도와주시겠습니까?/제가 뭘할까요?/제가 뭘 할 수 있을까요 ?/어떻게 제가 할까요 ?" />
+      <exit text="나가기/떠나기/지나가기/멈춰/취소하기/닫기" />
+      <repeat text="반복하기/반복해주세요/죄송합니다 ?/뭐라구 ?/예, 뭐라고 말씀하셨나요 ?" />
+    </speechReco>
+    <tts>
+      <confirmation text="%s 로 이해했는데, 맞습니까?" />
+      <enumMarks text=", / 또는 " />
+      <helpEnumChoices text="특별한 정답은 없습니다. /귀하께서는 %s 로 답변하실 수 있습니다. /귀하께서는 %s 로 답변하실 수 있습니다. /%s?" />
+      <helpEnumDefault text=" 다음의 사항을 저에게 요청하십시오: %s. " />
+      <helpTactile text="귀하께서는 제 촉각 캡처의 도움으로 답변을 선택할 수도 있습니다./\Pau=600\ 가능한 답변 사이를 서핑하기 위해서 내 머리의 앞 뒷부분을 눌러주십시오. 귀하의 선택 확인을 위해 원의 가운데를 눌러주십시오." />
+      <notUnderstood text="이해 못했습니다. " />
+      <noQuestion text="미리 규정된 질문이 존재하지 않으므로, 반복이 불가능합니다. " />
+      <notUnderstoodAnims text="여기엔 소음이 너무 심합니다! /보다 분명하게 말씀해주십시오. /잘 안들립니다. " />
+    </tts>
+  </translation>
+
+  <translation language="Portuguese">
+    <speechReco>
+      <negative text="não/não NAO/não é isso/não creio" />
+      <positive text="sim/sim NAO/OK/exatamente" />
+      <help text="a ajuda/ajuda-me/ajuda/não sei/podes ajudar-me?/o que faço?/o que posso fazer?/como posso fazer?" />
+      <exit text="sair/passar/pára/anular/fechar" />
+      <repeat text="repetir/repita/desculpe?/o quê?/como?" />
+    </speechReco>
+    <tts>
+      <confirmation text="Entendi %s. Está correto?" />
+      <enumMarks text=", / ou " />
+      <helpEnumChoices text="Não se espera uma resposta fixa. /Podes responder %s. /Podes responder por exemplo %s. /%s?" />
+      <helpEnumDefault text=" Podes pedir-me: %s. " />
+      <helpTactile text="Também podes escolher uma resposta através do meu sensor táctil./\Pau=600\ Carrega na parte da frente ou de trás da minha cúpula para navegar entre as possíveis respostas. De seguida, carrega na circunferência do meio para validar a tua opção." />
+      <notUnderstood text="Não entendi. " />
+      <noQuestion text="Não há perguntas predefinidas, portanto não há nada que eu possa repetir. " />
+      <notUnderstoodAnims text="Há barulho demais aqui! /Tente falar comigo mais claramente. /Não te ouço muito bem. " />
+    </tts>
+  </translation>
+
+  <translation language="Brazilian">
+    <speechReco>
+      <negative text="não/não NAO/não é isso/não creio" />
+      <positive text="sim/sim NAO/OK/exatamente" />
+      <help text="a ajuda/ajuda-me/ajuda/não sei/podes ajudar-me?/o que faço?/o que posso fazer?/como posso fazer?" />
+      <exit text="sair/passar/pára/anular/fechar" />
+      <repeat text="repetir/repita/desculpe?/o quê?/como?" />
+    </speechReco>
+    <tts>
+      <confirmation text="Eu entendi %s. Está correto?" />
+      <enumMarks text=", / ou " />
+      <helpEnumChoices text="Não se espera uma resposta fixa. /Tua resposta pode ser %s. /Tua resposta pode ser, por exemplo, %s. /%s?" />
+      <helpEnumDefault text=" Você pode me perguntar: %s. " />
+      <helpTactile text="Você também pode usar meu sensor tátil para escolher a resposta./\Pau=600\ Pressione o botão na parte da frente ou de trás da cabeça para ouvir todas as respostas disponíveis. Em seguida, confirme tua escolha pressionando o botão do meio." />
+      <notUnderstood text="Não entendi. " />
+      <noQuestion text="Nenhuma pergunta foi definida, portanto eu não posso repeti-la. " />
+      <notUnderstoodAnims text="Há barulho demais aqui! /Não te ouço muito bem. /Tente falar de forma mais clara. " />
+    </tts>
+  </translation>
+
+  <translation language="Spanish">
+    <speechReco>
+      <negative text="no/no nao/no estoy de acuerdo" />
+      <positive text="si/si nao/vale/ok/claro" />
+      <help text="ayuda/ayudame" />
+      <exit text="salida/parar/fin" />
+      <repeat text="repetir/perdon/que/perdóname" />
+    </speechReco>
+    <tts>
+      <confirmation text="Entendí %s. Es correcto?" />
+      <enumMarks text=", / o " />
+      <helpEnumChoices text="No espero una respuesta precisa. /Puedes responder %s. /Puedes responder por ejemplo %s. /%s ?" />
+      <helpEnumDefault text=" puedes pedirme : %s. " />
+      <helpTactile text="Tambien puedes utilizar mi sensor tactil para escojer la respuesta./\Pau=600\ Toque el sensor de enfrente o lo de atras para entender las posibles respuestas. Presione en medio para validar tu elección." />
+      <notUnderstood text="No entendí. " />
+      <noQuestion text="No me confirmaste tu respuesta, por lo tanto no puedo repetirla. " />
+      <notUnderstoodAnims text="Hay demasiado ruido, habla más fuerte! " />
+    </tts>
+  </translation>
+
+  <translation language="Arabic">
+    <speechReco>
+      <negative text="لا / هذا ليس هو" />
+      <positive text=" حسنا/نعم" />
+      <help text="تعليمات / ساعدوني" />
+      <exit text="خروج /  رحيل" />
+      <repeat text="تكرار /من فضلك اعد" />
+    </speechReco>
+    <tts>
+      <confirmation text="فهمت %s، فهل هذا صحيح؟" />
+      <enumMarks text=", / أو " />
+      <helpEnumChoices text="إجابتك متوقعة حقًا. /يمكن أن تكون إجابتك %s. /يمكن أن تكون إجابتك على سبيل المثال %s. /%s ?" />
+      <helpEnumDefault text=" يمكنك سؤالي : %s. " />
+      <helpTactile text="يمكنك أيضًا استخدام مستشعر اللمس لاختيار الإجابة./\Pau=600\ اضغط على الزر الرئيسي الأمامي أو الخلفي للاستماع لجميع الإجابات المتاحة، ثم تحقق من صحة اختيارك عن طريق الضغط على الزر الأوسط." />
+      <notUnderstood text="لا أفهم. " />
+      <noQuestion text="لم يتم تحديد سؤال، لذا لا يمكنني تكراره. " />
+      <notUnderstoodAnims text="هناك الكثير من الضوضاء هنا! / حاول التحدث بوضوح. / لا أستطيع سماعك جيدًا." />
+    </tts>
+  </translation>
+
+  <translation language="Turkish">
+    <speechReco>
+      <negative text="hayır/katılmıyorum" />
+      <positive text="evet/katılıyorum" />
+      <help text="yardım/bilmiyorum" />
+      <exit text="çıkış/durdur" />
+      <repeat text="tekrarla" />
+    </speechReco>
+    <tts>
+      <confirmation text="%s olarak anladım, doğru mudur?" />
+      <enumMarks text=", / veya " />
+      <helpEnumChoices text="Aslında hiçbir cevap beklenmiyor./Cevabın %s olabilir/ Cevabın örneğin %s olabilir. /%s ?" />
+      <helpEnumDefault text="Bana sorabilirsin : %s " />
+      <helpTactile text="Cevabı seçmek için benim dokunmatik sensörümü de kullanabilirsin. /\Pau=600\ Muhtemel tüm cevapları duymak için ön veya arka düğmeye basın. Ardından, seçimini onaylamak için orta düğmeye basın." />
+      <notUnderstood text="Anlamadım. " />
+      <noQuestion text="Tanımlanmış bir soru yok, o nedenle tekrar edemiyorum. " />
+      <notUnderstoodAnims text="Burada aşırı gürültü var! / Daha anlaşılır bir şekilde konuşmaya çalışın. / Seni çok iyi duyamıyorum." />
+    </tts>
+  </translation>
+
+  <translation language="Finnish">
+    <speechReco>
+      <negative text="ei/en suostu" />
+      <positive text="kyllä/suostun" />
+      <help text="apua/en tiedä" />
+      <exit text="poistu/lopeta" />
+      <repeat text="toista" />
+    </speechReco>
+    <tts>
+      <confirmation text="Ymmärsin, että se on %s. Pitääkö paikkansa? "/>
+      <enumMarks text=", / tai " />
+      <helpEnumChoices text="Tähän ei oikeastaan odoteta vastausta. /Vastauksesi voi olla %s. /Vastauksesi voi olla esimerkiksi %s. /%s?" />
+      <helpEnumDefault text=" Voit kysyä minulta: %s " />
+      <helpTactile text="Voit myös käyttää tuntoanturiani vastauksen valitsemiseen./\Pau=600\ Paina etummaista tai takimmaista pääpainiketta, kun haluat kuulla kaikki mahdolliset vastaukset. Vahvista sitten vastaus painamalla keskimmäistä painiketta." />
+      <notUnderstood text="En ymmärtänyt. " />
+      <noQuestion text="Kysymystä ei ole määritelty, joten en voi toistaa sitä. " />
+      <notUnderstoodAnims text="Täällä on liian meluisaa! /Yritä puhua selkeämmin. /En kuule oikein hyvin, mitä sanot. " />
+    </tts>
+  </translation>
+
+  <translation language="Swedish">
+    <speechReco>
+      <negative text="nej/jag instämmer inte" />
+      <positive text="ja/instämmer/jag instämmer" />
+      <help text="hjälpa/jag vet inte" />
+      <exit text="avsluta/stopp/avslut" />
+      <repeat text="repetera" />
+    </speechReco>
+    <tts>
+      <confirmation text="Jag hörde %s, är det korrekt? "/>
+      <enumMarks text=", / eller " />
+      <helpEnumChoices text="Inget svar förväntas. /Ditt svar kan vara %s. /Ditt svar kan vara till exempel %s. /%s?" />
+      <helpEnumDefault text=" Du kan fråga mig : %s " />
+      <helpTactile text="Du kan också använda min taktila sensor för att välja svar./\Pau=600\ Tryck på främre eller bakre knapp för att höra alla möjliga svar. Validera sedan svaret genom att trycka på mittenknappen." />
+      <notUnderstood text="Jag förstod inte. " />
+      <noQuestion text="Ingen fråga har definierats, därför kan jag inte upprepa den. " />
+      <notUnderstoodAnims text="Det är för mycket buller här! /Försök att tala tydligare. /Jag kan inte höra dig väl. " />
+    </tts>
+  </translation>
+
+  <translation language="Danish">
+    <speechReco>
+      <negative text="nej/jeg er ikke enig" />
+      <positive text="ja/enig/jeg er enig" />
+      <help text="hjælp/jeg ved det ikke" />
+      <exit text="udgang/stop/slut" />
+      <repeat text="gentag" />
+    </speechReco>
+    <tts>
+      <confirmation text="Jeg forstod %s, er det rigtigt? "/>
+      <enumMarks text=", / eller " />
+      <helpEnumChoices text="Der forventes ikke noget svar. /Dit svar kan være %s /Dit svar kan for eksempel være %s. /%s?" />
+      <helpEnumDefault text=" Du kan spørge mig : %s" />
+      <helpTactile text="Du kan også bruge min følesensor til at vælge svaret./\Pau=600\ Tryk på for eller bag hovedknappen for at høre alle de mulige   svar. Bekræft så dit valg ved at trykke på knappen i midten." />
+      <notUnderstood text="Jeg forstod det ikke. " />
+      <noQuestion text="Der er ikke defineret noget spørgsmål, så jeg kan ikke gentage det. " />
+      <notUnderstoodAnims text="Der er for meget larm her! /Prøv at tale tydeligere. /Jeg kan ikke ret godt høre dig. " />
+    </tts>
+  </translation>
+
+  <translation language="Dutch">
+    <speechReco>
+      <negative text="nee" />
+      <positive text="ja/mee eens/Ik ben het eens" />
+      <help text="hulp/Ik weet het niet" />
+      <exit text="veralaat/stop" />
+      <repeat text="herhaal" />
+    </speechReco>
+    <tts>
+      <confirmation text="Ik begreep %s, is dat juist? "/>
+      <enumMarks text=", / of " />
+      <helpEnumChoices text="Er wordt geen antwoord verwacht. /Jouw antwoord kan %s zijn. /Uw antwoord kan bijvoorbeeld %s zijn. /%s?" />
+      <helpEnumDefault text=" Je kunt mij vragen: %s. " />
+      <helpTactile text="Je kunt ook mijn tastknop gebruiken om het antwoord te kiezen./\Pau=600\ Druk op de verder of terug hoofdknoppen om alle beschikbare vragen af te luisteren. Bevestig dan jouw keuze door op de middelste knop te drukken." />
+      <notUnderstood text="Ik begrijp het niet. " />
+      <noQuestion text="Ner was geen vraag gedefinieerd, dus ik kan het niet herhalen. " />
+      <notUnderstoodAnims text="Er is teveel lawaai hier! /Probeer duidelijker te spreken. /Ik kan je niet goed horen. " />
+    </tts>
+  </translation>
+
+  <translation language="Czech">
+    <speechReco>
+      <negative text="ne/nesouhlasím" />
+      <positive text="ano/odsouhlaseno/souhlasím" />
+      <help text="nápověda/nevím" />
+      <exit text="odejít/zastavit" />
+      <repeat text="opakovat" />
+    </speechReco>
+    <tts>
+      <confirmation text="A jsem %s, je to správně?" />
+      <enumMarks text=", / nebo " />
+      <helpEnumChoices text="Žádná odpověď se ve skuteč nosti neoč ekává. /Tvá odpověď může být %s. /Tvá odpověď může být např %s. /%s?" />
+      <helpEnumDefault text=" můžeš se mě zeptat na: %s. " />
+      <helpTactile text="Pro výběr odpovědi můžete použít také mé dotykové čidlo./\Pau=600\ Pro vyslechnutí všech možných odpovědí stiskni tlačítko vpřed nebo vzad. Pak svou volbu potvrď stisknutím prostředního tlačítka." />
+      <notUnderstood text="Nerozuměl/a jsem. " />
+      <noQuestion text="Nebyla urč ena žádná otázka, proto ji nemohu opakovat." />
+      <notUnderstoodAnims text="Je tu příliš mnoho hluku! /Mluvte prosím jasněji. /Špatně tě slyším. " />
+    </tts>
+  </translation>
+
+  <translation language="Polish">
+    <speechReco>
+      <negative text="nie/nie zgadzam się" />
+      <positive text="tak/zgoda/zgadzam się" />
+      <help text="pomoc/nie wiem" />
+      <exit text="wyjdź/przestań" />
+      <repeat text="powtórz" />
+    </speechReco>
+    <tts>
+      <confirmation text="Zrozumiałem %s, czy to jest poprawne?" />
+      <enumMarks text=", / lub " />
+      <helpEnumChoices text="Nie oczekuje się odpowiedzi. /Możesz odpowiedzieć %s /Możesz odpowiedzieć na przykład %s. /%s?" />
+      <helpEnumDefault text=" możesz mnie spytać : %s. " />
+      <helpTactile text="Możesz użyć czujnika dotykowego w celu wskazania odpowiedzi./\Pau=600\ Naciśnij przycisk z przodu lub z tyłu, aby usłyszeć wszystkie dostępne odpowiedzi. Zatwierdź swój wybór środkowym przyciskiem." />
+      <notUnderstood text="Nie zrozumiałem. " />
+      <noQuestion text="Nie zdefiniowano pytania, nie mogę go więc powtórzyć. " />
+      <notUnderstoodAnims text="W tym miejscu panuje zbyt duży hałas! /TSpróbuj mówić wyraźniej. /Nie słyszę cię dobrze. " />
+    </tts>
+  </translation>
+
+  <translation language="Russian">
+    <speechReco>
+      <negative text="нет/Я не согласен" />
+      <positive text="да/согласен/Я согласен" />
+      <help text="справка/Я не знаю" />
+      <exit text="выход/прекратить/выйти" />
+      <repeat text="повторить" />
+    </speechReco>
+    <tts>
+      <confirmation text="Я понял %s, правильно?" />
+      <helpEnumChoices text="В действительности ответа не ожидается. /Ваш ответ может быть %s. /Ваш ответ, например, может быть %s. /%s?" />
+      <helpEnumDefault text=" вы можете спросить меня: %s. " />
+      <helpTactile text="YЧтобы выбрать ответ, вы также можете использовать мой тактильный сенсор./\Pau=600\ Чтобы услышать все возможные ответы, нажмите на кнопку спереди или сзади. Затем подтвердите ваш выбор, нажав на кнопку посередине." />
+      <enumMarks text=", / или " />
+      <notUnderstood text="Я не понимаю. " />
+      <noQuestion text="Вопрос не был указан, поэтому я не могу повторить его. " />
+      <notUnderstoodAnims text="Здесь слишком шумно! /Попробуйте говорить более разборчиво. /Я вас плохо слышу. " />
+    </tts>
+  </translation>
+  <translation language="Greek">
+    <speechReco>
+      <negative text="no/no nao/disagree/I disagree" />
+      <positive text="yes/yes nao/agree/I agree/of course" />
+      <help text="help/help me/i don't know" />
+      <exit text="exit/stop/quit" />
+      <repeat text="repeat/pardon/what/excuse me" />
+    </speechReco>
+    <tts>
+      <confirmation text="I understood %s. Is that correct?" />
+      <enumMarks text=", / or " />
+      <helpEnumChoices text="No answer is really expected. /Your answer can be %s. /Your answer can be for example %s. /%s?" />
+      <helpEnumDefault text=" you can ask me: %s. " />
+      <helpTactile text="You can also use my tactile sensor to choose the answer./\Pau=600\ Press the front or the rear of my skull cap to go through all of the available answers. Press then the circle in the middle to validate your choice." />
+      <notUnderstood text="I did not understand. " />
+      <noQuestion text="No question has been defined, so I cannot repeat it. " />
+      <notUnderstoodAnims text="There is too much noise here! /Try to talk to me more distinctly. /I can't hear you very well. " />
+    </tts>
+  </translation>
+  <translation language="Norwegian">
+    <speechReco>
+      <negative text="no/no nao/disagree/I disagree" />
+      <positive text="yes/yes nao/agree/I agree/of course" />
+      <help text="help/help me/i don't know" />
+      <exit text="exit/stop/quit" />
+      <repeat text="repeat/pardon/what/excuse me" />
+    </speechReco>
+    <tts>
+      <confirmation text="I understood %s. Is that correct?" />
+      <enumMarks text=", / or " />
+      <helpEnumChoices text="No answer is really expected. /Your answer can be %s. /Your answer can be for example %s. /%s?" />
+      <helpEnumDefault text=" you can ask me: %s. " />
+      <helpTactile text="You can also use my tactile sensor to choose the answer./\Pau=600\ Press the front or the rear of my skull cap to go through all of the available answers. Press then the circle in the middle to validate your choice." />
+      <notUnderstood text="I did not understand. " />
+      <noQuestion text="No question has been defined, so I cannot repeat it. " />
+      <notUnderstoodAnims text="There is too much noise here! /Try to talk to me more distinctly. /I can't hear you very well. " />
+    </tts>
+  </translation>
+</sentences>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="dance_2-3c6501">
+ <names>
+  <name lang="en_US">dance_2</name>
+ </names>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="Evalotuon dance">
+   <nature></nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>

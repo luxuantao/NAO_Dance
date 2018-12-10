@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="evalotuondance-e183d2">
+ <names>
+  <name lang="en_US">Evalotuon dance</name>
+ </names>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="shuaicongge">
+   <nature></nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
